@@ -1,2 +1,2 @@
-# DailyPlannerHW
+# Daily-Planner
 
